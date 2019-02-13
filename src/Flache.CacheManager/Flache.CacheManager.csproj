@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>ICG</Company>
+    <Authors>Aurimas Gecas</Authors>
+    <Description>Adapter for CacheManager to integrate seamlessly with our Fluent Caching API.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CacheManager.Core" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Flache\Flache.csproj" />
+  </ItemGroup>
+</Project>
