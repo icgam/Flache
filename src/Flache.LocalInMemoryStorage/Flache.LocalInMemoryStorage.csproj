@@ -3,8 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Company>ICG</Company>
+    <Company>Intermediate Capital Group</Company>
     <Authors>Aurimas Gecas</Authors>
+    <PackageProjectUrl>https://github.com/icgam/Flache</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/icgam/Flache</RepositoryUrl>
+    <Copyright>Copyright (C) 2018 Intermediate Capital Group</Copyright>
     <Description>Sample Local InMemory implementation of CACHE storage. This is perhaps useful only in extremely simple scenarios for to enable quick cache support. For more elaborate use cases please use this as an example to implement REDIS, SQL, NoSQL caches.</Description>
   </PropertyGroup>
 

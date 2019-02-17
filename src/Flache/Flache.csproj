@@ -3,8 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>Aurimas Gecas</Authors>
-    <Company>ICG</Company>
+    <Authors>Aurimas Gecas, Mohammad Moattar</Authors>
+    <Company>Intermediate Capital Group</Company>
+    <PackageProjectUrl>https://github.com/icgam/Flache</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/icgam/Flache</RepositoryUrl>
+    <Copyright>Copyright (C) 2018 Intermediate Capital Group</Copyright>
     <Product>Fluent API for configuring Cache</Product>
   </PropertyGroup>
 

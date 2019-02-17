@@ -3,8 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Company>ICG</Company>
-    <Authors>Aurimas Gecas</Authors>
+    <Company>Intermediate Capital Group</Company>
+    <Authors>Aurimas Gecas, Mohammad Moattar</Authors>
+    <PackageProjectUrl>https://github.com/icgam/Flache</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/icgam/Flache</RepositoryUrl>
+    <Copyright>Copyright (C) 2018 Intermediate Capital Group</Copyright>
     <Description>Adapter for CacheManager to integrate seamlessly with our Fluent Caching API.</Description>
   </PropertyGroup>
 
