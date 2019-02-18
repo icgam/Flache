@@ -1,5 +1,8 @@
 # Fluent Cache
 
+[![Build status](https://ci.appveyor.com/api/projects/status/6fqw0sy0jp6s584o?svg=true)](https://ci.appveyor.com/project/moattarwork/flache)https://img.shields.io/nuget/v/flache.svg
+
+
 ## Introduction
 
 Goal of this project is to provide an easy way to enable CACHE on any service we may use in our applications. The API is written in a 'non intrusive' way meaning, you don't have to actually change anything in your code in order to enable CACHING. Please take a look at the rest of the document for examples and extension points.
@@ -19,6 +22,21 @@ Goal of this project is to provide an easy way to enable CACHE on any service we
 
 - Allow expiration on cache definition to override the policy
 - Provide alternative facility to generate CACHE KEY's
+
+## How to download
+
+```shell
+Install-Package Flache
+Install-Package Flache.CacheManager
+
+```
+
+or using dotnet cli
+
+```shell
+dotnet add package Flache
+dotnet add package Flache.CacheManager
+```
 
 ## Quick Start
 
