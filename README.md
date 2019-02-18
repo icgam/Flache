@@ -1,8 +1,7 @@
 # Fluent Cache
 
 [![Build status](https://ci.appveyor.com/api/projects/status/6fqw0sy0jp6s584o?svg=true)](https://ci.appveyor.com/project/moattarwork/flache)
-https://img.shields.io/nuget/v/Flache.svg
-
+https://img.shields.io/nuget/v/Flache.svg?style=flat
 
 ## Introduction
 
