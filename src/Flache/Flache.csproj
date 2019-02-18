@@ -9,7 +9,7 @@
     <PackageProjectUrl>https://github.com/icgam/Flache</PackageProjectUrl>
     <RepositoryUrl>https://github.com/icgam/Flache</RepositoryUrl>
     <Copyright>Copyright (C) 2018 Intermediate Capital Group</Copyright>
-    <Product>Fluent API for configuring Cache</Product>
+    <Description>Fluent API for configuring Cache</Description>
   </PropertyGroup>
 
   <ItemGroup>
